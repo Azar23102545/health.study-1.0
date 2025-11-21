@@ -4,7 +4,7 @@ Detta repo innehåller min individuella uppgift i kursen **Pythonprogrammering o
 
 ## Innehåll
 
-- `health_study_del1.ipynb` – Jupyter Notebook med all kod, grafer och analyser för Del 1.
+- `Hälsostudie.del1.ipynb` – Jupyter Notebook med all kod, grafer och analyser för Del 1.
 - `data/health_study_dataset.csv` – Dataset som används i analysen.
 - `requirements.txt` – Lista över Python-paket och versioner.
 
